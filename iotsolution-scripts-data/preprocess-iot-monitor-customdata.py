@@ -176,10 +176,9 @@ def sendtransactiondata(maintopic,mainproducerid,VIPERPORT,index,preprocesstopic
 #	  // check for payload  'uid=subject.reference,filter:resourceType=MedicationAdministration,payload=payload.payload~\
 
      jsoncriteria='uid=Country,filter:allrecords~\
-subtopics=Province\/State~\
-values=Confirmed~\
-identifiers=Deaths~\
-datetime=Date~\
+subtopics=Confirmed_Deaths~\
+values=Province_State~\
+identifiers=Country~\
 msgid=Sno~\
 latlong=lat:long'     
 
