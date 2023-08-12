@@ -179,7 +179,6 @@ def sendtransactiondata(maintopic,mainproducerid,VIPERPORT,index,preprocesstopic
 subtopics=Province_State~\
 values=Confirmed_Deaths~\
 identifiers=Sno~\
-datetime=~\
 msgid=Sno~\
 latlong=lat:long'     
 
