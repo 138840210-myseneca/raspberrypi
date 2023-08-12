@@ -178,7 +178,7 @@ def sendtransactiondata(maintopic,mainproducerid,VIPERPORT,index,preprocesstopic
      jsoncriteria='uid=Country,filter:allrecords~\
 subtopics=Province_State~\
 values=Confirmed_Deaths~\
-identifiers=~\
+identifiers=Sno~\
 datetime=~\
 msgid=Sno~\
 latlong=lat:long'     
